@@ -63,7 +63,7 @@ The system was verified against a comprehensive test set, validating all core Ca
    
 The Multi-Agents System architecture is displayed below:
 
-![alt text](image.png)
+https://github.com/edbkei/KaggleCapstoneProject/blob/main/image_projectv_final.jpg
 
 And, the following concepts are introduced.
 
